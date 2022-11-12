@@ -1,0 +1,28 @@
+# Rime dictionary
+# encoding: utf-8
+ 
+---
+# 字典文件的基本信息
+# 
+name: myDict
+version: "2022.10.3"
+sort: by_weight
+use_preset_vocabulary: true
+# 
+import_tables:
+  - aurora_pinyin # 基本词库 勿删！！
+  #以下是自定义的扩充词库。
+  - c_dailychat
+  - c_dailychat2
+  - c_dailychat3
+  - c_zhwiki
+  - c_zhwiki2
+  - c_zhwiki3
+  - c_zhwiki4
+  - c_zhwiki5
+  - c_zhwiki6
+  - c_zhwiki7
+  - c_zhwiki8
+  - c_zhwiki9
+...
+ 
